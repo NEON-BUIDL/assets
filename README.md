@@ -1,2 +1,3 @@
-# Buildathon-2
-Guide for Neon Buildathon 2
+# Assets
+
+Assets for world building / buildathons
